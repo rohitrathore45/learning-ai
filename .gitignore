@@ -1,0 +1,26 @@
+# Virtual environments
+.venv/
+venv/
+myenv/
+FastAPI/myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# ML model files
+*.pkl
+
+# Optional (only if you don't want data on GitHub)
+*.csv
+*.json
+.idea/
